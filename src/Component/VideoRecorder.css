@@ -1,0 +1,40 @@
+.video {
+  background-color: black;
+  aspect-ratio: 16/9;
+  display: block;
+  width: 100%;
+}
+.button-container {
+  text-align: center;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  height: 4vw;
+  display: flex;
+  justify-content: center;
+}
+.start-button {
+  background-color: rgb(117, 221, 56);
+  margin-right: 2vw;
+  border: none;
+  border-radius: 0.7vw;
+}
+.preview-button {
+  background-color: rgb(232, 232, 58);
+  margin-right: 2vw;
+  border: none;
+  border-radius: 0.7vw;
+}
+.start-button {
+  background-color: rgb(232, 232, 58);
+  background-color: rgb(117, 221, 56);
+  margin-right: 2vw;
+  border: none;
+  border-radius: 0.7vw;
+  color: black;
+}
+.download-button {
+  background-color: rgb(58, 172, 225);
+  margin-right: 2vw;
+  border: none;
+  border-radius: 0.7vw;
+}
