@@ -31,6 +31,7 @@
   border: none;
   border-radius: 0.7vw;
   color: black;
+  cursor: pointer;
 }
 .download-button {
   background-color: rgb(58, 172, 225);
